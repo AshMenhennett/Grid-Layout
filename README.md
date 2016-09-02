@@ -1,1 +1,3 @@
-___Demo for Grid Layout repository.
+#Grid Layout
+
+Demo for the Grid Layout repository.
