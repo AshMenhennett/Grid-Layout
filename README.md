@@ -15,10 +15,10 @@ I have also included the normalize.css reset before the link to ```grid.css```, 
 
 ```html 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="css/normalize.css">
-<link rel="stylesheet" href="css/grid.css">
+<link rel="stylesheet" href="assets/css/normalize.css">
+<link rel="stylesheet" href="assets/css/grid.css">
 <!--[if lt IE 9]>
-	<script src="https://raw.githubusercontent.com/scottjehl/Respond/master/src/respond.js"></script>
+	<script src="assets/js/respond.js"></script>
 <![endif]-->
 ```
 
