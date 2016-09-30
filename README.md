@@ -33,8 +33,7 @@ Remember to set the viewport accordingly: ```<meta name="viewport" content="widt
 ```
 
 ##Demo
-Visit [the live demo](https://ashmenhennett.github.io/Grid-Layout/)
-I am using normalize as the CSS reset in the demo and source.
+Visit [the live demo](https://ashmenhennett.github.io/Grid-Layout/) and view the source for more insight into usage.
 
 ##Libraries
 - [Normalize](https://github.com/necolas/normalize.css)
