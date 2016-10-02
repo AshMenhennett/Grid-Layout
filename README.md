@@ -46,7 +46,7 @@ I have also included the normalize.css reset before the link to ```grid.css```, 
 ```
 
 ##Demo
-Visit [the live demo](https://ashmenhennett.github.io/Grid-Layout/) and view the page source for more insight into usage.
+View [the live demo](https://ashmenhennett.github.io/Grid-Layout/) and view the page source for more insight into usage.
 
 ##Libraries
 - [Normalize](https://github.com/necolas/normalize.css)
