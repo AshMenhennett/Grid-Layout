@@ -11,13 +11,14 @@ Columns are denoted by giving the element a class of ```col``` and how wide you 
 For example if you want one column to fill a row, set the class name of the column to ```col twelve```.
 Each row should contain 12 columns and You can have any assortment of columns within a row, as long as the combined total width of the columns used equals twelve.
 
-I have also included the normalize.css reset before the link to ```grid.css```, as well as including the Repsond.js JavaScript file after the links to the CSS files. See below.
+I have also included the normalize.css reset before the link to ```grid.css```, as well as including the HTML5 Shiv & Repsond.js JavaScript files. See below.
 
 ```html 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="assets/css/normalize.css">
 <link rel="stylesheet" href="assets/css/grid.css">
 <!--[if lt IE 9]>
+	<script src="assets/js/html5shiv.js"></script>
 	<script src="assets/js/respond.js"></script>
 <![endif]-->
 ```
@@ -49,6 +50,7 @@ Visit [the live demo](https://ashmenhennett.github.io/Grid-Layout/) and view the
 
 ##Libraries
 - [Normalize](https://github.com/necolas/normalize.css)
+- [HTML5 Shiv](https://github.com/aFarkas/html5shiv)
 - [Respond](https://github.com/scottjehl/Respond)
 
 ##Licensing
