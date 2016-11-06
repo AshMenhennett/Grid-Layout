@@ -45,7 +45,7 @@ body{
 .col.nine  {	width: 73.8%;	}
 .col.ten   {	width: 82.533%;	}
 .col.eleven{	width: 91.27%;	}
-.col.twelve{	width: 100%;	}
+.col.twelve{	width: 100%;    }
 
 @media (max-width: 768px){
 	.col{
