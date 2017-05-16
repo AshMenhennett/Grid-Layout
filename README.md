@@ -1,8 +1,8 @@
-#Grid Layout
+# Grid Layout
 
 A very small and simple CSS grid layout.
 
-##Usage
+## Usage
 
 Simply link to ```grid.css``` in the head of your HTML and add rows and columns within your HTML.
 
@@ -23,7 +23,7 @@ I have also included the normalize.css reset before the link to ```grid.css```, 
 <![endif]-->
 ```
 
-###Example Usage
+### Example Usage
 ```html 
 <div class="row">
 	<div class="col twelve"></div>
@@ -45,13 +45,13 @@ I have also included the normalize.css reset before the link to ```grid.css```, 
 </div>
 ```
 
-##Demo
+## Demo
 View [the live demo](https://ashmenhennett.github.io/Grid-Layout/) and view the page source for more insight into usage.
 
-##Libraries
+## Libraries
 - [Normalize](https://github.com/necolas/normalize.css)
 - [HTML5 Shiv](https://github.com/aFarkas/html5shiv)
 - [Respond](https://github.com/scottjehl/Respond)
 
-##Licensing
+## Licensing
 MIT License
